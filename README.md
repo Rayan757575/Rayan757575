@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayan_catapreta)
 
 - 👀 I’m interested in developing softwares.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m focused on improve my skills while finishing highschool.
 
 ## Technologies
