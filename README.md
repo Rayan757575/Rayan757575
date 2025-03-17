@@ -1,4 +1,4 @@
-# Hi, I'm Rayan de Andrade Cata Preta
+# Olá, meu nome é Rayan de Andrade Cata Preta
 
 ## 💼 Perfil Profissional
 
@@ -10,13 +10,13 @@
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-## 👨‍💻 Linguagens: 
+### 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,php,cpp)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
+### 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
-## ⚙️ Ferramentas e Tecnologias:
+### ⚙️ Ferramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=git,github,mysql,nodejs,vscode)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
