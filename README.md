@@ -24,4 +24,4 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&color:FFF)](https://www.linkedin.com/in/rayan-cata-preta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/rayan_catapreta/)<br><br>
 
-![Rayan757575 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayan757575&show_icons=true&theme=github_dark&rank_icon=github) 
+![Rayan757575 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayan75757&show_icons=true&theme=github_dark&rank_icon=github) 
