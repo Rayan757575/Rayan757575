@@ -11,7 +11,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ### 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,php)](https://skillicons.dev)
 
 ### 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=spring,react,nextjs,tailwind)](https://skillicons.dev)
