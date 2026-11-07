@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Ciências da Computação / Universidade Federal de Juiz de Fora (UFJF)
+- 🎓 Cursando Ciência da Computação / Universidade Federal de Juiz de Fora (UFJF)
 
 ## 🚀 Habilidades
 
