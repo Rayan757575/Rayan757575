@@ -4,14 +4,14 @@
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Ciências Exatas / Universidade Federal de Juiz de Fora (UFJF)
+- 🎓 Cursando Ciências da Computação / Universidade Federal de Juiz de Fora (UFJF)
 
 ## 🚀 Habilidades
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ### 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,cpp,php)](https://skillicons.dev)
 
 ### 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,react,nextjs,tailwind)](https://skillicons.dev)
